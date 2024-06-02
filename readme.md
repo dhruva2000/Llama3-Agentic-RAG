@@ -2,7 +2,7 @@
 
 ## Description
 
-Huge creds to [Jason Zhou](https://x.com/jasonzhou1993) for his wonderful video on building a custom Agentic RAG. I modified his demo by replacing Mendable's FireCrawl with Jina AI's readers which was cheaper to test with
+Huge creds to [Jason Zhou](https://x.com/jasonzhou1993) for his wonderful video on building a custom Agentic RAG. I modified his demo by replacing Mendable's FireCrawl with Jina AI's readers which was cheaper to test with. I added some of my own comments after exploring the APIs and understanding a little more about how this works
 
 ## Installation
 
